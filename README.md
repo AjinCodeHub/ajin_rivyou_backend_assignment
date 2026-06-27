@@ -219,20 +219,6 @@ Products belonging to the **Smartphones** category are returned with the highest
     ]
 }
 ```
-
----
-
-## Future Improvements
-
-* Tier 2 Ranking (Tag Match)
-* Tier 3 Ranking (Name & Description Match)
-* Search Pagination
-* CSV Import Management Command
-* Unit Testing
-* Search History
-* Redis Caching
-* Celery Background Tasks
-
 ---
 
 ## Author
